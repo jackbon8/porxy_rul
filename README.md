@@ -26,7 +26,7 @@
 - YouTube
 
 ---
-
-### Enjoy your new proxy setup with Vercel!
+## 部署
+[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/jackbon8/porxy_url)
 
 ---
