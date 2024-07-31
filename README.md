@@ -1,16 +1,38 @@
-Vercel 免费反向代理库
-使用方法
-Fork 项目到自己的仓库
-登录 Vercel
-发布项目
-配置域名
-SUCCESS！
-已实现的功能
-反向代理 OpenAI
-未实现的代理
-需要自己配置 vercel.json 文件
+以下是改写后的 README，排版更加合理美观：
 
-GitHub
-Meta
-Xspace
-YouTube
+---
+
+# Vercel 免费反向代理库
+
+## 使用方法
+
+1. **Fork 项目到自己的仓库**
+2. **登录 Vercel**
+3. **发布项目**
+4. **配置域名**
+5. **SUCCESS！**
+
+---
+
+## 已实现的功能
+
+- 反向代理 OpenAI
+
+---
+
+## 未实现的代理
+
+需要自己配置 `vercel.json` 文件
+
+- GitHub
+- Meta
+- Xspace
+- YouTube
+
+---
+
+### Enjoy your new proxy setup with Vercel!
+
+---
+
+这样看起来是否满意？如果有其他要求或需要进一步修改，请告诉我！
